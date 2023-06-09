@@ -46,7 +46,7 @@ Support me
 
 Live site link [https://lrmn.is-a.dev/BillGatesMeme/](https://lrmn.is-a.dev/BillGatesMeme/)
 
-![Bill Gates Meme maker website preview](https://https://lrmn.is-a.dev/images/og-images.png)
+![Bill Gates Meme maker website preview](https://lrmn.is-a.dev/images/og-images.png)
 
 This website allows user to put images into the main screen, binder and second screen by warping the images and combining them useing html canvas. This project was made using html, css and javascript.
 
